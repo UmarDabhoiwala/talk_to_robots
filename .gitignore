@@ -1,0 +1,19 @@
+# ignore compiled code
+*.class
+*.pyc
+*.o
+
+# ignore logs
+*.log
+
+#ignore pycache
+__pycache__/
+
+# ignore sensitive files
+output.wav
+audio.wav
+config.py
+transcript.txt
+
+
+
